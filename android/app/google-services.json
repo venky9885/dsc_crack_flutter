@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10371629771",
+    "firebase_url": "https://crackdsc.firebaseio.com",
+    "project_id": "crackdsc",
+    "storage_bucket": "crackdsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10371629771:android:e60666735cdc3d273d914e",
+        "android_client_info": {
+          "package_name": "com.example.crack_dsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10371629771-ggojn2lgsmil1r7ru98r95728qtronnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMTH1cJuOpfhQVUysdqUA6mi03sDaOs-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10371629771-ggojn2lgsmil1r7ru98r95728qtronnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
